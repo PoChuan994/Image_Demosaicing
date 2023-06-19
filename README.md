@@ -11,7 +11,7 @@ Data summary of gate-level simulation (by Quartus)
 - Total virtual pins: 0
 - Total memory bits: 0/2396160(%)
 
-  File description
-  - demosaic.v: This file is used to reconstruct full-color image.
-  - testfixture.v: This file is used to convert data calculated by demosaic.v file into .raw file.
-  - democsaic.vo/democsaic_v.sdo: These files are converted from demosaic.v by Quartus
+File description
+- demosaic.v: This file is used to reconstruct full-color image.
+- testfixture.v: This file is used to convert data calculated by demosaic.v file into .raw file.
+- democsaic.vo/democsaic_v.sdo: These files are converted from demosaic.v by Quartus
