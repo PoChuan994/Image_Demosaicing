@@ -15,3 +15,4 @@ File description
 - demosaic.v: This file is used to reconstruct full-color image.
 - testfixture.v: This file is used to convert data calculated by demosaic.v file into .raw file.
 - democsaic.vo/democsaic_v.sdo: These files are converted from demosaic.v by Quartus
+- psnr.exe: This file is used to calculate PSNR score between golden image data and image converted by demosaic.v file.
